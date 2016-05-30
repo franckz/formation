@@ -1,0 +1,13 @@
+{
+  "name": "franckz/formation",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src/Formation"]
+  },
+  "config": {
+    "process-timeout": 600
+  }
+}
